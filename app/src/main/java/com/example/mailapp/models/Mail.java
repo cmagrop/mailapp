@@ -6,7 +6,7 @@ public class Mail {
     private String subject; //asunto
     private String message; //mensaje
     private String senderName; // quien envía el mensaje
-    private String color;
+    private String color; //color tomará un valor en haxadecimal
 
     //metodos
 
